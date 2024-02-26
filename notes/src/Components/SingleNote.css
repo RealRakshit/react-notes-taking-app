@@ -1,0 +1,30 @@
+.notetext{
+    text-align: center;
+}
+
+.singleNote{
+    width: 400px;
+    height: 100px;
+    background-color: turquoise;
+    color: cadetblue;
+    border-style: solid;
+    border-radius: 5%;
+    margin: 5px;
+    border-color: aquamarine;
+}
+
+#btn{
+    position: relative;
+    left: 350px;
+    top: 25px;
+}
+
+.singleNote22{
+    width: 400px;
+    height: 100px;
+    background-color: lime;
+    border-style: solid;
+    border-radius: 5%;
+    margin: 5px;
+    border-color: aquamarine;
+}

@@ -1,0 +1,13 @@
+.ul{
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+#textspace{
+    background-color: black;
+    color: bisque;
+    margin: auto;
+    width: 500px;
+    height: 200px;
+}
